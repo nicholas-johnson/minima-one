@@ -1,2 +1,3 @@
-# minima_one
-Minima One Robot Control
+# Minima One
+
+Open source Minima robot
