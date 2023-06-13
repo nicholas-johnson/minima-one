@@ -1,3 +1,3 @@
 # Minima One
 
-Open source Minima robot
+Open source modular humanoid.
